@@ -1,0 +1,50 @@
+[
+  {
+    "screen": 1,
+    "images": ["pic_1.jpeg", "pic_2.jpeg"],
+    "sentence": "Bill and Sam had spent hours flying their helicopter. Now it was sailing over the crowd. It was almost ready to land on the lake.",
+    "correctAnswer": "pic_1.jpeg"
+  },
+  {
+    "screen": 2,
+    "images": ["page2_img1.jpeg", "page2_img2.jpeg"],
+    "sentence": "The tree was starting to look very pretty. It was Alvin's job to choose the ribbons. Then he passed them to his mother who tied them to the branches.",
+    "correctAnswer": "page2_img2.jpeg"
+  },
+  {
+    "screen": 3,
+    "images": ["3_1.jpeg", "3_2.jpeg", "3_3.jpeg"],
+    "sentence": "The rocket's engine roared. A cloud of white smoke covered the launch pad. The rocket and its crew were off the ground and streaking towars Mars.",
+    "correctAnswer": "3_3.jpeg"
+  },
+  {
+    "screen": 4,
+    "images": ["4_a.png", "4_b.png","4_c.png"],
+    "sentence": "Gerry moved faster and faster over the icy surface. He loves to feel the cold breeze on his face. Once more around and he would win this race for sure.",
+    "correctAnswer": "4_c.png"
+  },
+  {
+    "screen": 5,
+    "images": ["5_a.png", "5_b.png"],
+    "sentence": "Beverly was puzzle as the sailboats padded by. They looked like they had huge ballons tied to their masts. She wondered if they might start to float above the water.",
+    "correctAnswer": "5_a.png"
+  },
+  {
+    "screen": 6,
+    "images": ["6_a.png", "6_b.png"],
+    "sentence": "\"Is that where your father works?\" asked Tom. \"It sure doesn't look like an office building to me. There has so many pretty flowers around the building, it looks like part of a park.\"",
+    "correctAnswer": "6_b.png"
+  },
+  {
+    "screen": 7,
+    "images": ["7_a.png", "7_b.png","7_c.png"],
+    "sentence": "Jennifier has always wanted to be a dancer. Tonight, she and her partner danced beautifully. She felt very special when she danced alone with Robert and everyone clapped for them.",
+    "correctAnswer": "7_c.png"
+  },
+  {
+    "screen": 8,
+    "images": ["8_a.png", "8_b.png","8_c.png"],
+    "sentence": "Frank's farm was famous. Visitors could drive right by and see his volcano. It didn't smoke or rumble or anything. It just sat there like a big hill in the middle of a field.",
+    "correctAnswer": "8_c.png"
+  }
+]
